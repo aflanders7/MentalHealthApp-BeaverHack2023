@@ -4,7 +4,7 @@
         --light:#bdebc4;
         --dark:#5a705d;
         --contrast:#3498db;
-        --contrast2:#4a3208;
+        --contrast2:#544b3b;
       }
     
       :global(body){
@@ -27,6 +27,7 @@
         top: 100px;
         width: 100%;
         left: 0%;
+        background-color: var(--light);
       }
       
       :global(.main a) {
@@ -65,7 +66,7 @@
       :global(footer) {
           background: var(--dark);
           color:whitesmoke;
-          padding: 15px;
+          padding: 10px;
           position: fixed;
           left: 0px;
           bottom:0px;
@@ -80,6 +81,7 @@
         top: 40px;
         width: 100%;
         left: 0%;
+        background-color:var(--light);
       }
     
       :global(.container2 h2){
