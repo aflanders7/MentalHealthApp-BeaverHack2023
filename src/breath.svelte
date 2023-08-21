@@ -92,7 +92,7 @@ setInterval(() => {
 
   <header>Your mental health matters.</header>
 
-  <p class="breath">Breath in as the circle gets bigger. Breath out as the circle gets smaller.</p>
+  <p class="breath">Breathe in as the circle gets bigger. Breath out as the circle gets smaller.</p>
 
 <div>
 <section class="circle">
@@ -101,9 +101,3 @@ setInterval(() => {
 </svg>
 </section>
 </div>
-
-<footer><p>Disclaimer: This website provides information for informational purposes only. This website does not provide any 
-  medical or professional advice. This chatbot does not replace a healthcare professional or act as a substitute for 
-  professional mental health, mental advice, diagnosis or treatment.</p>
-  &copy; 2023 Audrey Flanders and Lorenzo Balderrama
-</footer>

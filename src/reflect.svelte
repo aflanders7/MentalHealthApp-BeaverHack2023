@@ -36,12 +36,3 @@
     placeholder=" Reflect on your thoughts, feelings, or day."></textarea>
 </div>
 
-
-
-
-
-<footer><p>Disclaimer: This website provides information for informational purposes only. This website does not provide any 
-  medical or professional advice. This chatbot does not replace a healthcare professional or act as a substitute for 
-  professional mental health, mental advice, diagnosis or treatment.</p>
-  &copy; 2023 Audrey Flanders and Lorenzo Balderrama
-</footer>
